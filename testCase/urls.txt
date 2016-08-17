@@ -1,0 +1,4 @@
+https://www.cs.huji.ac.il/~oday10/1.txt  132.65.116.111
+https://www.cs.huji.ac.il/~oday10/2.txt  *
+http://www.cs.huji.ac.il/~oday10/3.txt  132.65.116.111
+http://www.cs.huji.ac.il/~oday10/4.txt  *
