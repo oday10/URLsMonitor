@@ -1,0 +1,325 @@
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Created LogWriter Object Successfully.
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Start Creating URLsMonitor Instance..
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: URLsMonitor Resources Preperation..
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Start Reading The Urls File..
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Finished Reading The Urls File..
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Creating URLFiles..
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Processing The Line https://www.cs.huji.ac.il/~oday10/1.txt  132.65.116.111
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Sending HTTPS Request To https://132.65.116.111:443/~oday10/1.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Finished Sending HTTPS request to https://132.65.116.111:443/~oday10/1.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: URLFile https://www.cs.huji.ac.il/~oday10/1.txt 132.65.116.111 Was Created.
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Processing The Line https://www.cs.huji.ac.il/~oday10/2.txt  *
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Sending HTTPS Request To https://www.cs.huji.ac.il/~oday10/2.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Finished Sending HTTPS request to https://www.cs.huji.ac.il/~oday10/2.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: URLFile https://www.cs.huji.ac.il/~oday10/2.txt * Was Created.
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Processing The Line http://www.cs.huji.ac.il/~oday10/3.txt  132.65.116.111
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Sending HTTP Request To http://132.65.116.111:80/~oday10/3.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Finished Sending HTTP request to http://132.65.116.111:80/~oday10/3.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: URLFile http://www.cs.huji.ac.il/~oday10/3.txt 132.65.116.111 Was Created.
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Processing The Line http://www.cs.huji.ac.il/~oday10/4.txt  *
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Sending HTTP Request To http://www.cs.huji.ac.il/~oday10/4.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Finished Sending HTTP request to http://www.cs.huji.ac.il/~oday10/4.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: URLFile http://www.cs.huji.ac.il/~oday10/4.txt * Was Created.
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Finished Creating URLFiles.
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: URLsMonitor Resources Preperation Finished.
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: URLsMonitor Instance Was Created.
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Setting The Periodic Check..
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Periodic Check Was Set To Run Every 0.5 Minutes
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: *********** URLsMonitor Periodic Check Started.. ***********
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Checking https://www.cs.huji.ac.il/~oday10/1.txt 132.65.116.111..
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Sending HTTPS Request To https://132.65.116.111:443/~oday10/1.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Finished Sending HTTPS request to https://132.65.116.111:443/~oday10/1.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Checking https://www.cs.huji.ac.il/~oday10/2.txt *..
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Sending HTTPS Request To https://www.cs.huji.ac.il/~oday10/2.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Finished Sending HTTPS request to https://www.cs.huji.ac.il/~oday10/2.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Checking http://www.cs.huji.ac.il/~oday10/3.txt 132.65.116.111..
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Sending HTTP Request To http://132.65.116.111:80/~oday10/3.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Finished Sending HTTP request to http://132.65.116.111:80/~oday10/3.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Checking http://www.cs.huji.ac.il/~oday10/4.txt *..
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Sending HTTP Request To http://www.cs.huji.ac.il/~oday10/4.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: Finished Sending HTTP request to http://www.cs.huji.ac.il/~oday10/4.txt
+
+May 24, 2015 7:28:33 PM io.LogWriter logMessage
+INFO: *********** URLsMonitor Periodic Check Finished. ***********
+
+
+
+May 24, 2015 7:29:03 PM io.LogWriter logMessage
+INFO: *********** URLsMonitor Periodic Check Started.. ***********
+
+May 24, 2015 7:29:03 PM io.LogWriter logMessage
+INFO: Checking https://www.cs.huji.ac.il/~oday10/1.txt 132.65.116.111..
+
+May 24, 2015 7:29:03 PM io.LogWriter logMessage
+INFO: Sending HTTPS Request To https://132.65.116.111:443/~oday10/1.txt
+
+May 24, 2015 7:29:03 PM io.LogWriter logMessage
+INFO: Finished Sending HTTPS request to https://132.65.116.111:443/~oday10/1.txt
+
+May 24, 2015 7:29:03 PM io.LogWriter logMessage
+INFO: ############# File https://www.cs.huji.ac.il/~oday10/1.txt 132.65.116.111 Was Changed. #############
+
+May 24, 2015 7:29:06 PM io.LogWriter logMessage
+INFO: An Email To oday.sayed@gmail.com Was Sent Successfully.
+
+May 24, 2015 7:29:06 PM io.LogWriter logMessage
+INFO: Checking https://www.cs.huji.ac.il/~oday10/2.txt *..
+
+May 24, 2015 7:29:06 PM io.LogWriter logMessage
+INFO: Sending HTTPS Request To https://www.cs.huji.ac.il/~oday10/2.txt
+
+May 24, 2015 7:29:06 PM io.LogWriter logMessage
+INFO: Finished Sending HTTPS request to https://www.cs.huji.ac.il/~oday10/2.txt
+
+May 24, 2015 7:29:06 PM io.LogWriter logMessage
+INFO: Checking http://www.cs.huji.ac.il/~oday10/3.txt 132.65.116.111..
+
+May 24, 2015 7:29:06 PM io.LogWriter logMessage
+INFO: Sending HTTP Request To http://132.65.116.111:80/~oday10/3.txt
+
+May 24, 2015 7:29:06 PM io.LogWriter logMessage
+INFO: Finished Sending HTTP request to http://132.65.116.111:80/~oday10/3.txt
+
+May 24, 2015 7:29:06 PM io.LogWriter logMessage
+INFO: Checking http://www.cs.huji.ac.il/~oday10/4.txt *..
+
+May 24, 2015 7:29:06 PM io.LogWriter logMessage
+INFO: Sending HTTP Request To http://www.cs.huji.ac.il/~oday10/4.txt
+
+May 24, 2015 7:29:06 PM io.LogWriter logMessage
+INFO: Finished Sending HTTP request to http://www.cs.huji.ac.il/~oday10/4.txt
+
+May 24, 2015 7:29:06 PM io.LogWriter logMessage
+INFO: *********** URLsMonitor Periodic Check Finished. ***********
+
+
+
+May 24, 2015 7:29:33 PM io.LogWriter logMessage
+INFO: *********** URLsMonitor Periodic Check Started.. ***********
+
+May 24, 2015 7:29:33 PM io.LogWriter logMessage
+INFO: Checking https://www.cs.huji.ac.il/~oday10/1.txt 132.65.116.111..
+
+May 24, 2015 7:29:33 PM io.LogWriter logMessage
+INFO: Sending HTTPS Request To https://132.65.116.111:443/~oday10/1.txt
+
+May 24, 2015 7:29:33 PM io.LogWriter logMessage
+INFO: Finished Sending HTTPS request to https://132.65.116.111:443/~oday10/1.txt
+
+May 24, 2015 7:29:33 PM io.LogWriter logMessage
+INFO: Checking https://www.cs.huji.ac.il/~oday10/2.txt *..
+
+May 24, 2015 7:29:33 PM io.LogWriter logMessage
+INFO: Sending HTTPS Request To https://www.cs.huji.ac.il/~oday10/2.txt
+
+May 24, 2015 7:29:33 PM io.LogWriter logMessage
+INFO: Finished Sending HTTPS request to https://www.cs.huji.ac.il/~oday10/2.txt
+
+May 24, 2015 7:29:33 PM io.LogWriter logMessage
+INFO: ############# File https://www.cs.huji.ac.il/~oday10/2.txt * Was Changed. #############
+
+May 24, 2015 7:29:36 PM io.LogWriter logMessage
+INFO: An Email To oday.sayed@gmail.com Was Sent Successfully.
+
+May 24, 2015 7:29:36 PM io.LogWriter logMessage
+INFO: Checking http://www.cs.huji.ac.il/~oday10/3.txt 132.65.116.111..
+
+May 24, 2015 7:29:36 PM io.LogWriter logMessage
+INFO: Sending HTTP Request To http://132.65.116.111:80/~oday10/3.txt
+
+May 24, 2015 7:29:36 PM io.LogWriter logMessage
+INFO: Finished Sending HTTP request to http://132.65.116.111:80/~oday10/3.txt
+
+May 24, 2015 7:29:36 PM io.LogWriter logMessage
+INFO: Checking http://www.cs.huji.ac.il/~oday10/4.txt *..
+
+May 24, 2015 7:29:36 PM io.LogWriter logMessage
+INFO: Sending HTTP Request To http://www.cs.huji.ac.il/~oday10/4.txt
+
+May 24, 2015 7:29:36 PM io.LogWriter logMessage
+INFO: Finished Sending HTTP request to http://www.cs.huji.ac.il/~oday10/4.txt
+
+May 24, 2015 7:29:36 PM io.LogWriter logMessage
+INFO: *********** URLsMonitor Periodic Check Finished. ***********
+
+
+
+May 24, 2015 7:30:03 PM io.LogWriter logMessage
+INFO: *********** URLsMonitor Periodic Check Started.. ***********
+
+May 24, 2015 7:30:03 PM io.LogWriter logMessage
+INFO: Checking https://www.cs.huji.ac.il/~oday10/1.txt 132.65.116.111..
+
+May 24, 2015 7:30:03 PM io.LogWriter logMessage
+INFO: Sending HTTPS Request To https://132.65.116.111:443/~oday10/1.txt
+
+May 24, 2015 7:30:03 PM io.LogWriter logMessage
+INFO: Finished Sending HTTPS request to https://132.65.116.111:443/~oday10/1.txt
+
+May 24, 2015 7:30:03 PM io.LogWriter logMessage
+INFO: Checking https://www.cs.huji.ac.il/~oday10/2.txt *..
+
+May 24, 2015 7:30:03 PM io.LogWriter logMessage
+INFO: Sending HTTPS Request To https://www.cs.huji.ac.il/~oday10/2.txt
+
+May 24, 2015 7:30:03 PM io.LogWriter logMessage
+INFO: Finished Sending HTTPS request to https://www.cs.huji.ac.il/~oday10/2.txt
+
+May 24, 2015 7:30:03 PM io.LogWriter logMessage
+INFO: Checking http://www.cs.huji.ac.il/~oday10/3.txt 132.65.116.111..
+
+May 24, 2015 7:30:03 PM io.LogWriter logMessage
+INFO: Sending HTTP Request To http://132.65.116.111:80/~oday10/3.txt
+
+May 24, 2015 7:30:03 PM io.LogWriter logMessage
+INFO: Finished Sending HTTP request to http://132.65.116.111:80/~oday10/3.txt
+
+May 24, 2015 7:30:03 PM io.LogWriter logMessage
+INFO: ############# File http://www.cs.huji.ac.il/~oday10/3.txt 132.65.116.111 Was Changed. #############
+
+May 24, 2015 7:30:06 PM io.LogWriter logMessage
+INFO: An Email To oday.sayed@gmail.com Was Sent Successfully.
+
+May 24, 2015 7:30:06 PM io.LogWriter logMessage
+INFO: Checking http://www.cs.huji.ac.il/~oday10/4.txt *..
+
+May 24, 2015 7:30:06 PM io.LogWriter logMessage
+INFO: Sending HTTP Request To http://www.cs.huji.ac.il/~oday10/4.txt
+
+May 24, 2015 7:30:06 PM io.LogWriter logMessage
+INFO: Finished Sending HTTP request to http://www.cs.huji.ac.il/~oday10/4.txt
+
+May 24, 2015 7:30:06 PM io.LogWriter logMessage
+INFO: *********** URLsMonitor Periodic Check Finished. ***********
+
+
+
+May 24, 2015 7:30:33 PM io.LogWriter logMessage
+INFO: *********** URLsMonitor Periodic Check Started.. ***********
+
+May 24, 2015 7:30:33 PM io.LogWriter logMessage
+INFO: Checking https://www.cs.huji.ac.il/~oday10/1.txt 132.65.116.111..
+
+May 24, 2015 7:30:33 PM io.LogWriter logMessage
+INFO: Sending HTTPS Request To https://132.65.116.111:443/~oday10/1.txt
+
+May 24, 2015 7:30:33 PM io.LogWriter logMessage
+INFO: Finished Sending HTTPS request to https://132.65.116.111:443/~oday10/1.txt
+
+May 24, 2015 7:30:33 PM io.LogWriter logMessage
+INFO: Checking https://www.cs.huji.ac.il/~oday10/2.txt *..
+
+May 24, 2015 7:30:33 PM io.LogWriter logMessage
+INFO: Sending HTTPS Request To https://www.cs.huji.ac.il/~oday10/2.txt
+
+May 24, 2015 7:30:33 PM io.LogWriter logMessage
+INFO: Finished Sending HTTPS request to https://www.cs.huji.ac.il/~oday10/2.txt
+
+May 24, 2015 7:30:33 PM io.LogWriter logMessage
+INFO: Checking http://www.cs.huji.ac.il/~oday10/3.txt 132.65.116.111..
+
+May 24, 2015 7:30:33 PM io.LogWriter logMessage
+INFO: Sending HTTP Request To http://132.65.116.111:80/~oday10/3.txt
+
+May 24, 2015 7:30:33 PM io.LogWriter logMessage
+INFO: Finished Sending HTTP request to http://132.65.116.111:80/~oday10/3.txt
+
+May 24, 2015 7:30:33 PM io.LogWriter logMessage
+INFO: Checking http://www.cs.huji.ac.il/~oday10/4.txt *..
+
+May 24, 2015 7:30:33 PM io.LogWriter logMessage
+INFO: Sending HTTP Request To http://www.cs.huji.ac.il/~oday10/4.txt
+
+May 24, 2015 7:30:33 PM io.LogWriter logMessage
+INFO: Finished Sending HTTP request to http://www.cs.huji.ac.il/~oday10/4.txt
+
+May 24, 2015 7:30:33 PM io.LogWriter logMessage
+INFO: ############# File http://www.cs.huji.ac.il/~oday10/4.txt * Was Changed. #############
+
+May 24, 2015 7:30:36 PM io.LogWriter logMessage
+INFO: An Email To oday.sayed@gmail.com Was Sent Successfully.
+
+May 24, 2015 7:30:36 PM io.LogWriter logMessage
+INFO: *********** URLsMonitor Periodic Check Finished. ***********
+
+
+
